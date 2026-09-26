@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Rishita Sinha
-
+<!--
 ### 💻 Software Engineering • AI/ML • Backend Development
 
 I'm a **BTech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, passionate about building practical software and AI-powered applications.
@@ -24,8 +24,7 @@ I enjoy working across the stack — from **Data Structures & Algorithms and bac
 💡 Interested in Software Engineering, AI/ML & Backend Development  
 🚀 Building real-world applications and AI-powered systems  
 📚 Currently strengthening DSA, Machine Learning, MLOps & System Design  
-
----
+-->
 
 ## 🧑‍💻 About Me
 
@@ -180,10 +179,10 @@ Built a role-based task management application using:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishita0706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishita0706&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita0706&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
