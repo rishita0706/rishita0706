@@ -88,8 +88,7 @@ Scikit-learn · Pandas · NumPy · Sentence Transformers · NLP · SQLAlchemy
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
 </p>
 
----
-
+<!--
 ## ⭐ Featured Projects
 
 ### 🧠 ORION — Multimodal Interview & Viva Reasoning Evaluator
@@ -167,7 +166,7 @@ Built a role-based task management application using:
 - Authentication & Authorization
 - Role-based dashboards
 - Task and user management
-
+-->
 ---
 
 ## 📚 Currently Learning
