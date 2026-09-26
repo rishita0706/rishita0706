@@ -178,7 +178,7 @@ Built a role-based task management application using:
 - 🧠 Generative AI & NLP
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -187,7 +187,7 @@ Built a role-based task management application using:
 </p>
 
 ---
-
+-->
 ## 🔥 GitHub Streak
 
 <p align="center">
